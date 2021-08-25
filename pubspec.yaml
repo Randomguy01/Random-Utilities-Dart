@@ -1,0 +1,9 @@
+name: random_utilities_dart
+version: 0.0.1
+description: Utilities package for Dart. Included code is meant to make your life easier!
+homepage: randomguys.dev
+repository: https://github.com/Randomguy01/Random-Utilities-Dart
+issue_tracker: https://github.com/Randomguy01/Random-Utilities-Dart/issues
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
