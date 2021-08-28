@@ -16,3 +16,9 @@ dart pub add random_utilities_dart
 ```dart
 import 'package:random_utilities_dart/random_utilities_dart';
 ```
+
+## Features
+
+### String Utilities
+Extensions:
+- `replaceAt(int index, String replacement)` replace a character at an `index` with `replacement`
